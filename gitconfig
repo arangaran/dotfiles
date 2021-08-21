@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ngano@uni.pe
+	name = Norman Gan
